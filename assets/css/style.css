@@ -1,0 +1,78 @@
+.text-right{
+    text-align: right;
+}
+.theme_btn {
+	background: gray;
+	text-decoration: none;
+	display: inline-block;
+	min-width: 160px;
+	text-align: center;
+	line-height: 50px;
+	font-size: 18px;
+    padding: 0 30px;
+    font-weight: 700;
+}
+.theme_bg{
+    background: #56bb6d !important;
+    color: #fff;
+}
+
+/* banner_area css */
+.banner_area{
+    background-image: url('../images/banne_bg.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-color: #efefef;
+}
+.single_slide {
+	background: #fff;
+}
+.pCardHead {
+	font-size: 20px;
+	text-transform: capitalize;
+	font-weight: 700;
+	margin-top: -13px;
+	background: #cefbd8;
+	width: 145px;
+	padding: 4px 20px;
+	color: #56bb6d;
+	margin-left: auto;
+	margin-right: auto;
+}
+.p_card_img {
+	transform: translateY(-50%);
+	display: inline-block;
+}
+.p_card_img img {
+	background: #fff;
+	box-shadow: 0px 0px 10px 0px rgba(0,0,0,.1);
+	border-radius: 10px;
+}
+.card_price {
+	font-size: 50px;
+	font-weight: 700;
+	color: #222;
+	margin-top: 12px;
+}
+.label_wrap {
+	font-size: 20px;
+	text-transform: capitalize;
+	background: #cefbd8;
+	padding: 5px;
+	font-weight: 700;
+	color: #444;
+	margin-bottom: 30px;
+	margin-top: 11px;
+}
+
+.pafx_bg{
+    background: #19a357 !important;
+    color: #fff;
+}
+.card_btn {
+	margin-bottom: -25px;
+	border-radius: 10px;
+	font-weight: 700;
+}
