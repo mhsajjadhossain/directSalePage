@@ -6,15 +6,13 @@ ol {
   text-align: right;
 }
 .theme_btn {
-  background: gray;
   text-decoration: none;
   display: inline-block;
-  min-width: 160px;
   text-align: center;
-  line-height: 40px;
-  font-size: 18px;
-  padding: 0 21px;
-  font-weight: 700;
+  font-size: 15px;
+  padding: 0 20px;
+  padding-bottom: 9px;
+  padding-top: 6px;
 }
 .theme_bg {
   background: #56bb6d !important;
@@ -43,17 +41,15 @@ ol {
   background: #fff;
 }
 .pCardHead {
-  font-size: 20px;
+  font-size: 15px;
   text-transform: capitalize;
   font-weight: 700;
   margin-top: -13px;
-  background: #f0f0f0;
-  width: 145px;
+  display: inline-block !important;
   padding: 4px 20px;
   color: #acacac;
   margin-left: auto;
   margin-right: auto;
-  /* border: 1px solid #c1bcbc; */
   background: #fff;
   margin-top: 0;
   padding-top: 0;
@@ -77,13 +73,13 @@ ol {
   -webkit-filter: grayscale(1);
 }
 .card_price {
-  font-size: 50px;
+  font-size: 45px;
   font-weight: 700;
   color: #ddd;
   margin-top: 12px;
 }
 .label_wrap {
-  font-size: 16px;
+  font-size: 13px;
   text-transform: capitalize;
   padding: 5px;
   font-weight: 700;
@@ -91,11 +87,13 @@ ol {
   /* margin-bottom: 30px; */
   margin-top: 11px;
   display: inline-block;
-  padding-top: 3px;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding-left: 8px;
+  padding-right: 8px;
   border-radius: 30px;
   box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.1);
+  line-height: 1;
+  padding-bottom: 9px;
+  font-weight: 400;
 }
 .pafx_bg {
   background: #19a357 !important;
@@ -159,6 +157,13 @@ ol {
 .single_slide_wrap.slick-center .card_price {
   color: #222222;
 }
+.card_price.d-block.text-center sup {
+  color: #919191;
+}
+.card_price.d-block.text-center span {
+  font-size: 20px;
+  color: #919191;
+}
 .single_slide_wrap.slick-center .card_btn {
   background: #56bb6d !important;
 }
@@ -184,15 +189,16 @@ ol {
 }
 .single_slide {
   min-height: 300px;
+  text-align: center;
 }
 .single_slide_wrap.slick-center .card_info {
   margin-bottom: 15px;
 }
 .single_content_slide h2 {
-  font-size: 40px;
-  font-weight: 700;
+  font-size: 30px;
   margin: 0;
   color: #56bb6d;
+  text-transform: uppercase;
 }
 .single_content_slide h3 {
   font-size: 32px;
@@ -209,8 +215,13 @@ ol {
   font-weight: 600;
   padding: 10px 0;
 }
+.single_content_slide ul li span {
+  text-transform: uppercase;
+}
 .single_content_slide ul li:last-child span:first-child {
   color: #56bb6d;
+  text-transform: uppercase !important;
+  font-weight: 400;
 }
 .single_content_slide ul li span:last-child {
   color: rgb(255, 62, 62);
@@ -219,7 +230,7 @@ ol {
   text-decoration-color: rgb(255, 62, 62);
 }
 .single_content_slide ul li:last-child span {
-  font-size: 40px;
+  font-size: 36px;
 }
 .pos {
   position: relative;
@@ -239,10 +250,10 @@ ol {
   -o-transform: translateY(-50%);
 }
 .button_wrapper button {
-  width: 60px;
-  height: 60px;
+  width: 50px;
+  height: 50px;
   font-size: 30px;
-  line-height: 30px;
+  line-height: 28px;
   border: 0;
   background: rgba(0, 0, 0, 0.6);
   color: #ffffff;
@@ -251,6 +262,7 @@ ol {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
+  text-align: center;
 }
 .single_content_slide {
   min-height: 603px;
@@ -259,11 +271,17 @@ ol {
   justify-content: center;
 }
 .single_content_slide h3 {
-  font-size: 50px;
+  font-size: 40px;
   margin-bottom: 0;
+  text-transform: uppercase;
 }
 .single_content_slide h4 {
   font-size: 40px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.single_content_slide h4.font-weight-regular {
+  font-weight: 400;
 }
 .save_money {
   text-decoration: none !important;

@@ -213,6 +213,16 @@
 }
 
 @media (max-width: 575.98px) {
+  .single_slide_wrap.slick-center .card_btn {
+    background: #56bb6d !important;
+    padding-top: 3px;
+    padding-bottom: 8px;
+    padding-left: 23px;
+    padding-right: 23px;
+  }
+  .single_slide_wrap.slick-center {
+    width: 200px !important;
+  }
   .single_content_slide h2 {
     font-size: 30px;
   }
@@ -255,10 +265,10 @@
     font-size: 40px;
   }
   .card_info {
-    min-height: 140px;
+    min-height: 161px;
   }
   .single_slide {
-    min-height: 244px;
+    min-height: 261px;
   }
   .button_wrapper button {
     width: 50px;
@@ -270,11 +280,14 @@
   .hero_slider_wrap .slick-list.draggable {
     padding-top: 0 !important;
     padding-bottom: 0px !important;
+    padding-left: 118px !important;
+    max-height: 351px !important;
   }
   .single_content_slide {
     margin-top: 20px;
     min-height: auto;
   }
+
   .paicc_test_nav {
     transform: translateX(0%);
   }
