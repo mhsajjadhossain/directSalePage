@@ -220,9 +220,6 @@
     padding-left: 23px;
     padding-right: 23px;
   }
-  .single_slide_wrap.slick-center {
-    width: 200px !important;
-  }
   .single_content_slide h2 {
     font-size: 30px;
   }
@@ -280,7 +277,8 @@
   .hero_slider_wrap .slick-list.draggable {
     padding-top: 0 !important;
     padding-bottom: 0px !important;
-    padding-left: 80px !important;
+    /* padding-left: 80px !important; */
+    /* padding-right: 80px !important; */
     max-height: 351px !important;
   }
   .single_content_slide {

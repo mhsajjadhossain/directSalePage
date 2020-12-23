@@ -57,7 +57,8 @@ function mainSlider() {
     prevArrow: '.prev_arrow_btn',
     responsive: [
       { breakpoint: 576, settings: { 
-        slidesToShow: 1
+        slidesToShow: 1,
+        centerPadding:'80px'
 
        } }
   ]
