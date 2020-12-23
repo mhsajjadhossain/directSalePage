@@ -1,0 +1,306 @@
+@media (min-width: 1200px) and (max-width: 1500px) {
+  .single_content_slide h3 {
+    font-size: 30px;
+  }
+
+  .single_content_slide ul li:last-child span {
+    font-size: 32px;
+  }
+
+  .single_content_slide {
+    min-height: 542px;
+  }
+}
+
+@media (max-width: 1199.98px) {
+  .single_content_slide h2 {
+    font-size: 30px;
+  }
+
+  .single_content_slide h3 {
+    font-size: 30px;
+    font-weight: 400;
+  }
+
+  .theme_btn {
+    line-height: 30px;
+    font-size: 16px;
+    padding: 0 9px;
+    padding-bottom: 2px;
+    min-width: 1px;
+  }
+
+  .single_content_slide ul li:last-child span {
+    font-size: 32px;
+  }
+
+  .single_content_slide {
+    min-height: 542px;
+  }
+
+  .label_wrap {
+    font-size: 13px;
+  }
+
+  .pCardHead {
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-top: -13px;
+    background: #f0f0f0;
+    width: 125px;
+    padding: 4px 10px;
+  }
+  .card_price {
+    font-size: 40px;
+  }
+  .card_info {
+    min-height: 140px;
+  }
+  .single_slide {
+    min-height: 244px;
+  }
+  .button_wrapper button {
+    width: 50px;
+    height: 50px;
+  }
+  .banner_area {
+    padding: 100px 0;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .single_content_slide h2 {
+    font-size: 30px;
+  }
+
+  .single_content_slide h3 {
+    font-size: 30px;
+    font-weight: 400;
+  }
+
+  .theme_btn {
+    line-height: 30px;
+    font-size: 16px;
+    padding: 0 9px;
+    padding-bottom: 2px;
+    min-width: 1px;
+  }
+
+  .single_content_slide ul li:last-child span {
+    font-size: 32px;
+  }
+
+  .single_content_slide {
+    min-height: 542px;
+  }
+
+  .label_wrap {
+    font-size: 13px;
+  }
+
+  .pCardHead {
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-top: -13px;
+    background: #f0f0f0;
+    width: 125px;
+    padding: 4px 10px;
+  }
+  .card_price {
+    font-size: 40px;
+  }
+  .card_info {
+    min-height: 140px;
+  }
+  .single_slide {
+    min-height: 244px;
+  }
+  .button_wrapper button {
+    width: 50px;
+    height: 50px;
+  }
+  .banner_area {
+    padding: 50px 0;
+  }
+  .hero_slider_wrap .slick-list.draggable {
+    padding-top: 0 !important;
+    padding-bottom: 0px !important;
+  }
+  .single_content_slide {
+    margin-top: 20px;
+    min-height: auto;
+  }
+  .paicc_test_nav {
+    transform: translateX(0%);
+  }
+}
+
+@media (max-width: 767.98px) {
+  .single_content_slide h2 {
+    font-size: 30px;
+  }
+
+  .single_content_slide h3 {
+    font-size: 30px;
+    font-weight: 400;
+  }
+
+  .theme_btn {
+    line-height: 30px;
+    font-size: 16px;
+    padding: 0 9px;
+    padding-bottom: 2px;
+    min-width: 1px;
+  }
+
+  .single_content_slide ul li:last-child span {
+    font-size: 32px;
+  }
+
+  .single_content_slide {
+    min-height: 542px;
+  }
+
+  .label_wrap {
+    font-size: 13px;
+  }
+
+  .pCardHead {
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-top: -13px;
+    background: #f0f0f0;
+    width: 125px;
+    padding: 4px 10px;
+  }
+  .card_price {
+    font-size: 40px;
+  }
+  .card_info {
+    min-height: 140px;
+  }
+  .single_slide {
+    min-height: 244px;
+  }
+  .button_wrapper button {
+    width: 50px;
+    height: 50px;
+  }
+  .banner_area {
+    padding: 50px 0;
+  }
+  .hero_slider_wrap .slick-list.draggable {
+    padding-top: 0 !important;
+    padding-bottom: 0px !important;
+  }
+  .single_content_slide {
+    margin-top: 20px;
+    min-height: auto;
+  }
+  .paicc_test_nav {
+    transform: translateX(0%);
+  }
+  .section-main-title {
+    font-size: 31px;
+    font-weight: 700;
+    color: #444;
+    line-height: 1.2;
+    margin-bottom: 50px;
+  }
+}
+
+@media (max-width: 575.98px) {
+  .single_content_slide h2 {
+    font-size: 30px;
+  }
+
+  .single_content_slide h3 {
+    font-size: 30px;
+    font-weight: 400;
+  }
+
+  .theme_btn {
+    line-height: 30px;
+    font-size: 16px;
+    padding: 0 9px;
+    padding-bottom: 2px;
+    min-width: 1px;
+  }
+
+  .single_content_slide ul li:last-child span {
+    font-size: 32px;
+  }
+
+  .single_content_slide {
+    min-height: 542px;
+  }
+
+  .label_wrap {
+    font-size: 13px;
+  }
+
+  .pCardHead {
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: 700;
+    margin-top: -13px;
+    background: #f0f0f0;
+    width: 125px;
+    padding: 4px 10px;
+  }
+  .card_price {
+    font-size: 40px;
+  }
+  .card_info {
+    min-height: 140px;
+  }
+  .single_slide {
+    min-height: 244px;
+  }
+  .button_wrapper button {
+    width: 50px;
+    height: 50px;
+  }
+  .banner_area {
+    padding: 50px 0;
+  }
+  .hero_slider_wrap .slick-list.draggable {
+    padding-top: 0 !important;
+    padding-bottom: 0px !important;
+  }
+  .single_content_slide {
+    margin-top: 20px;
+    min-height: auto;
+  }
+  .paicc_test_nav {
+    transform: translateX(0%);
+  }
+  .section-main-title {
+    font-size: 31px;
+    font-weight: 700;
+    color: #444;
+    line-height: 1.2;
+    margin-bottom: 50px;
+  }
+  .save_money {
+    text-decoration: none !important;
+    font-size: 21px !important;
+  }
+  .single_content_slide h4 {
+    font-size: 30px;
+  }
+  .single_content_slide ul {
+    padding-left: 0;
+    margin-top: 30px;
+  }
+  .prof_img {
+    width: 120px;
+    height: 120px;
+  }
+  .prof_txt {
+    width: 200px;
+  }
+}
