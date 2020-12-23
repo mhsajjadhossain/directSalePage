@@ -58,7 +58,7 @@ function mainSlider() {
     responsive: [
       { breakpoint: 576, settings: { 
         slidesToShow: 1,
-        centerPadding:'80px'
+        centerPadding:'70px'
 
        } }
   ]
