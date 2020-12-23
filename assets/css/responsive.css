@@ -285,7 +285,9 @@
     margin-top: 20px;
     min-height: auto;
   }
-
+  .image_inner_content img {
+    width: 1303px;
+  }
   .paicc_test_nav {
     transform: translateX(0%);
   }
